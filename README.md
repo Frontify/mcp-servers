@@ -23,6 +23,8 @@ The server exposes a broad set of capabilities for working with your Frontify co
 
 The server organizes its tools into curated **packs** tailored to different roles and risk appetites. Each pack is available at its own endpoint, and visiting a pack URL in your browser shows a human-readable overview of the tools it contains.
 
+A detailed tool description for every pack — a dedicated HTML page per pack — is available at [mcp.frontify-integrations.com](https://mcp.frontify-integrations.com/).
+
 | Pack                  | Endpoint                                                      | Description                                             |
 | --------------------- | ------------------------------------------------------------ | ------------------------------------------------------- |
 | `admin`               | `https://mcp.frontify-integrations.com/mcp/packs/admin`               | Full access — all tools, no restrictions                |
