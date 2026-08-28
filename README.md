@@ -4,7 +4,7 @@ The Frontify MCP Server connects AI assistants — such as Claude, ChatGPT, and 
 
 The server is **hosted by Frontify** — there's nothing to install or run yourself. Connect your MCP client to the official endpoint and authorize access to your Frontify instance.
 
-> **Beta:** The Frontify MCP Server is an experimental integration. Write access carries real risk, and AI models can hallucinate — generating responses that are plausible but wrong. Verify outputs before taking important actions.
+> **Note:** Write access carries real risk, and AI models can hallucinate — generating responses that are plausible but wrong. Verify outputs before taking important actions.
 
 ## Features
 
